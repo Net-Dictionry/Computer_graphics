@@ -35,3 +35,7 @@ C4HW5
 C5HW2
 
 中点分割算法实现直线段裁剪
+
+C6HW7
+
+编制用de Casteljau算法产生的双三次Bezier曲面程序（OpenGL）
