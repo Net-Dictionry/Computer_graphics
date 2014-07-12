@@ -39,3 +39,11 @@ C5HW2
 C6HW7
 
 编制用de Casteljau算法产生的双三次Bezier曲面程序（OpenGL）
+
+C7HW5
+
+图形变换
+
+finaltest
+
+画Bezier曲线
